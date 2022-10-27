@@ -23,6 +23,6 @@ public class Controller {
 
   @RequestMapping("/")
   public String hello() {
-    return "Hello world!";
+    return "Hello world Black Knight!";
   }
 }
